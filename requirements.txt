@@ -6,3 +6,4 @@
 # works as expected. Requirements can be found in setup.py.
 ###
 OctoPrint
+pydantic>=1.10.13 # not directly required, pinned by Snyk to avoid a vulnerability
