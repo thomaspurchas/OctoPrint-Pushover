@@ -6,3 +6,4 @@
 # works as expected. Requirements can be found in setup.py.
 ###
 OctoPrint
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
